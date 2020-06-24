@@ -16,4 +16,7 @@ einige Bereiche eines Entenlebens verschlossen bleiben werden.
 * sehr jung
 * sehr unerfahren
 
+Das Kücken sagte:
+
+> Das kann ich auch.
 
