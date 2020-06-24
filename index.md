@@ -7,3 +7,13 @@ Das kleine Kücken ist neugierig und wagemutig.
 Es muss jedoch am Ende dieser Abenteuer feststellen, dass doch
 nicht alle Kücken gleich sind und wegen dieser Ungleichheit ihm
 einige Bereiche eines Entenlebens verschlossen bleiben werden.
+
+## Merkmale
+* gelbes Gefieder
+* zwei Beine
+* zwei Flügel
+* Schnabel
+* sehr jung
+* sehr unerfahren
+
+
