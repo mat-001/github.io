@@ -20,4 +20,4 @@ Das Kücken sagte:
 
 > Das kann ich auch.
 
-<imgsrc="https://images-na.ssl-images-amazon.com/images/I/51WB4KYSRvL._SX258_BO1,204,203,200_.jpg"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51WB4KYSRvL._SX258_BO1,204,203,200_.jpg"/>
